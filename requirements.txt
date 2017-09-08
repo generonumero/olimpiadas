@@ -1,0 +1,5 @@
+click
+lxml
+requests
+requests_cache
+rows
